@@ -4,7 +4,7 @@
   "description": "",
   "main": "goo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node Callback/challenge.js"
   },
   "keywords": [
     "Javacript"
@@ -12,6 +12,7 @@
   "author": "David Villamil",
   "license": "MIT ",
   "dependencies": {
+    "xhr2": "^0.2.1",
     "xmlhttprequest": "^1.8.0"
   }
 }
