@@ -12,7 +12,9 @@
   "author": "David Villamil",
   "license": "MIT ",
   "dependencies": {
+    "node-fetch": "^3.3.1",
     "xhr2": "^0.2.1",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type" : "module"
 }
